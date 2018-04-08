@@ -2,6 +2,7 @@ class Demo{
 public static void main(String[] args){
 String a="hello33";
 System.out.println(a+"world");
+System.out.println("fix the bug");
 
 }
 
